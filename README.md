@@ -1,6 +1,9 @@
 # AutomatedDialectalCorporaCollectionTool
-Automated Dialectal Corpora Collection Tool
-Download Python 3.7
+
+#Instructions Before Use
+------------------------------------------------
+#Download Python 3.7
+
 Add (pip) the following libraries:
 •	Pandas: https://pypi.org/project/pandas/
 •	Tweepy: https://pypi.org/project/tweepy/
@@ -16,3 +19,8 @@ Add (pip) the following libraries:
 •	csv: https://docs.python.org/3.3/library/csv.html
 •	scipy.io: https://pypi.org/project/scipy/
 
+#Obtain Twitter API Credentials From
+https://developer.twitter.com/en/apply-for-access.html
+
+Update the file
+credentials.py
