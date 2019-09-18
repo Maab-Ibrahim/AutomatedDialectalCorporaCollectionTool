@@ -22,6 +22,6 @@ Add (pip) the following libraries:
 #Obtain Twitter API Credentials From
 https://developer.twitter.com/en/apply-for-access.html
 
-Update the file XXXXX in credentials.py
+Update the 'All' XXXXX in file credentials.py
 
 NOW YOU ARE READY
